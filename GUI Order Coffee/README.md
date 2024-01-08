@@ -1,2 +1,0 @@
-# Python
-GUI Order Coffee
